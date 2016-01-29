@@ -1,5 +1,5 @@
-name = "Block Visibility"
-description = "Helper class for complex php visibility of blocks."
+name = "Block Visibility for Php"
+description = "Helper module for complex php visibility of blocks."
 package = other
 version = "7.x-1.0"
 core = 7.x
