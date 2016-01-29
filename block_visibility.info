@@ -1,0 +1,12 @@
+name = "Block Visibility"
+description = "Helper class for complex php visibility of blocks."
+package = other
+version = 7.x-0.1
+core = 7.x
+author = aklump
+
+files[] = includes/BlockVisibility.php
+
+dependencies[] = block
+dependencies[] = php
+
